@@ -41,6 +41,7 @@ font-style: normal;
 
 .tech-image{
   max-width: 96px;
+  margin: 2rem;
 }
 
 .tech-container{
@@ -54,4 +55,9 @@ font-style: normal;
 
 .projects-padding {
   padding-bottom: 4rem;
+}
+
+.technologies {
+  display: flex;
+  flex-wrap: wrap;
 }
