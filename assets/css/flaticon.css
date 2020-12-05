@@ -38,6 +38,13 @@ font-style: normal;
   border: 1px solid #e1ebf7;
   border-radius: 6px;
 }
+.videoPic{
+  width: 200px;
+  height: 230px;
+  margin-bottom: 1.5rem;
+  /* border: 1px solid #e1ebf7; */
+  /* border-radius: 6px; */
+}
 
 .tech-image{
   max-width: 96px;
